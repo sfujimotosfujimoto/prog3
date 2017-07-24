@@ -1,0 +1,393 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/Ch9$.class
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/Ch9.class
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/ChecksumAccumulator$.class
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/ChecksumAccumulator.class
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/Files$.class
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/Files.class
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/FindLongLines$.class
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/FindLongLines.class
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/LongLines$.class
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/LongLines.class
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/Rational.class
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/Summer$.class
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/Summer$delayedInit$body.class
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/Summer.class
+binary dependencies:
+14 items
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> /Users/sfujimoto/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> /Users/sfujimoto/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> /Users/sfujimoto/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> /Users/sfujimoto/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> /Users/sfujimoto/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> /Users/sfujimoto/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> /Users/sfujimoto/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> /Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> Ch9
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> Ch9$
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> ChecksumAccumulator
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> ChecksumAccumulator$
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> Files
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> Files$
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> FindLongLines
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> FindLongLines$
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> LongLines
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> LongLines$
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> Rational
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> Summer
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> Summer$
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> Summer$delayedInit$body
+used names:
+232 items
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> <
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> <init>
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> Any
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> App
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> Boolean
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> Ch9
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> Function1
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> Int
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> List
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> Nothing
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> Object
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> U
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> Unit
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> exists
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> foreach
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> num
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> nums
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> package
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> scala
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> &
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> +
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> +=
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> ->
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> <init>
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> A
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> Any
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> AnyRef
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> ArrowAssoc
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> B
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> Boolean
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> Byte
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> Char
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> ChecksumAccumulator
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> Function1
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> Int
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> K
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> Map
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> Nothing
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> Object
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> Predef
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> String
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> StringOps
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> Tuple2
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> U
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> Unit
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> V
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> acc
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> add
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> apply
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> augmentString
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> b
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> c
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> cache
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> checksum
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> collection
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> contains
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> cs
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> empty
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> foreach
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> mutable
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> s
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> scala
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> sum
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> sum_=
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> toByte
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> unary_~
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> <init>
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> Any
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> AnyRef
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> Array
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> ArrayOps
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> B
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> Boolean
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> CanBuildFrom
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> CharSequence
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> Class
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> ClassTag
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> File
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> Files
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> FilterMonadic
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> Function1
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> Function2
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> Nothing
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> Object
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> Predef
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> String
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> T
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> That
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> _$4
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> _$7
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> _root_
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> apply
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> canBuildFrom
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> contains
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> endsWith
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> file
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> filesHere
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> filesMatching
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> getName
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> io
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> java
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> listFiles
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> map
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> matcher
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> matches
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> materializeClassTag
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> ofRef
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> package
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> query
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> refArrayOps
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> reflect
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> scala
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> withFilter
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> <init>
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> Any
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> AnyRef
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> Array
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> ArrayOps
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> FindLongLines
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> Function1
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> Int
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> LongLines
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> Nothing
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> Object
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> Predef
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> String
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> StringOps
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> T
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> U
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> Unit
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> apply
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> arg
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> args
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> augmentString
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> drop
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> foreach
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> ofRef
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> processFile
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> refArrayOps
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> scala
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> toInt
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> width
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> +
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> <init>
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> >
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> Any
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> AnyRef
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> Boolean
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> BufferedSource
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> Codec
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> Function1
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> Int
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> Iterator
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> LongLines
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> Nothing
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> Object
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> Predef
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> Source
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> String
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> U
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> Unit
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> fallbackSystemCodec
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> filename
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> foreach
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> fromFile
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> getLines
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> io
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> length
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> line
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> println
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> processLine
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> scala
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> source
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> trim
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> width
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> !=
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> %
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> *
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> +
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> -
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> /
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> <init>
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> ==
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> Any
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> AnyRef
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> Boolean
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> Int
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> Object
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> Predef
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> Rational
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> RichInt
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> String
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> Unit
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> a
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> abs
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> b
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> d
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> denom
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> g
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> gcd
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> i
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> intWrapper
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> n
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> numer
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> require
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> scala
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> that
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> +
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> <init>
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> <repeated>
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> A
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> Any
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> App
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> ChecksumAccumulator
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> Function1
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> Int
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> List
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> Nothing
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> Object
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> Predef
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> String
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> Summer
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> U
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> Unit
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> apply
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> calculate
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> collection
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> foreach
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> immutable
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> println
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> scala
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> season
+product stamps:
+14 items
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/Ch9$.class -> lastModified(1497685260000)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/Ch9.class -> lastModified(1497685260000)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/ChecksumAccumulator$.class -> lastModified(1497684838000)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/ChecksumAccumulator.class -> lastModified(1497684838000)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/Files$.class -> lastModified(1497684838000)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/Files.class -> lastModified(1497684838000)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/FindLongLines$.class -> lastModified(1497684838000)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/FindLongLines.class -> lastModified(1497684838000)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/LongLines$.class -> lastModified(1497684838000)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/LongLines.class -> lastModified(1497684838000)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/Rational.class -> lastModified(1497684838000)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/Summer$.class -> lastModified(1497684838000)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/Summer$delayedInit$body.class -> lastModified(1497684838000)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/target/scala-2.12/classes/Summer.class -> lastModified(1497684838000)
+source stamps:
+7 items
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> hash(c8f9d14c1b50e7866ab81ba552f42f9e90076311)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> hash(923ead98146af63547423399755c861670a4496c)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> hash(5089cbd087ee85be8b187f8d37bd76b4a0f62f84)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> hash(771a797f8a65de22080245b455ae9982ec0540ff)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> hash(14863ebd085ac72aa05257bcc9d7881675bf5c5b)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> hash(1e92e06c41dd92d60103eb949d3de1da2dd0aa0b)
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> hash(e7f6a3279a6c815dd7b3c54a748590842000a03f)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1481605174000)
+/Users/sfujimoto/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/sfujimoto/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> scala.App
+internal apis:
+7 items
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwlCwhrwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwqMUJ7nQABm5vdGlmeXNxAH4ADFugysR0AAR3YWl0c3EAfgAMHkkViHQADSRhc0luc3RhbmNlT2ZzcQB+AAyCpSXddAALY29udGFpbnNOZWdzcQB+AAxW8uTYdAAGZXF1YWxzc3EAfgAMLvuxQHQADGFzSW5zdGFuY2VPZnNxAH4ADMXSNXF0AA5leGVjdXRpb25TdGFydHNxAH4ADNTZG0N0AAxjb250YWluc05lZzJzcQB+AAzTM9ZBdAAMc3luY2hyb25pemVkc3EAfgAMef47FHQADSRpc0luc3RhbmNlT2ZzcQB+AAwUyaoOdAAEbWFpbnNxAH4ADAlfnql0AAlub3RpZnlBbGxzcQB+AAw045nYdAAMaXNJbnN0YW5jZU9mc3EAfgAM3zmg3nQAAj09c3EAfgAMAvRFnnQABWNsb25lc3EAfgAM/aQwC3QABiRpbml0JHNxAH4ADNE8qUp0AANDaDlzcQB+AAxm8Kp5dAAIdG9TdHJpbmdzcQB+AAwVHys1dAAEYXJnc3NxAH4ADDp4ZpN0AAIhPXNxAH4ADFFoAPJ0AAhnZXRDbGFzc3NxAH4ADLmqKLR0AAJuZXNxAH4ADN+37iJ0AAJlcXNxAH4ADO+65Fh0AAtkZWxheWVkSW5pdHNxAH4ADGnjeEF0AAIjI3NxAH4ADNfv+zd0AAhmaW5hbGl6ZXNxAH4ADISahk10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AL3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AGtzcQB+AGZ1cQB+AEgAAAAAc3EAfgBmdXEAfgBIAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBOcQB+AFd1cQB+AFgAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB1eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGp0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AanNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Aj3NxAH4AWgBxAH4AI3VxAH4AXAAAAABzcQB+AIJ0AARVbml0cQB+AIh1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB1eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBfdAAFUGxhaW5xAH4AM3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ag1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AanNxAH4AgnQABUFycmF5cQB+AIh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AgnQABlN0cmluZ3NxAH4AhnNxAH4AiXVxAH4AjAAAAANzcQB+AI50AARqYXZhc3EAfgCOdAAEbGFuZ3EAfgCTc3EAfgBmdXEAfgCqAAAABHNxAH4AgnQAA0FwcHEAfgCIc3EAfgCCdAALRGVsYXllZEluaXRxAH4AiHNxAH4AgnQABk9iamVjdHEAfgCuc3EAfgCCdAADQW55cQB+AIh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXLT/dC91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABJL1VzZXJzL3NmdWppbW90by9jb2RlL1NjYWxhL1Byb2dyYW1taW5nU2NhbGEzcmQvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMj50UwbUOeGargbpVL0L56QB2MR
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwP39ZqwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwLSqYI3QABm5vdGlmeXNxAH4ADAonAXB0ABNDaGVja3N1bUFjY3VtdWxhdG9yc3EAfgAMAMBmE3QABHdhaXRzcQB+AAy9/l+UdAANJGFzSW5zdGFuY2VPZnNxAH4ADKRxRAd0AAZlcXVhbHNzcQB+AAzCeUVpdAAMYXNJbnN0YW5jZU9mc3EAfgAMIDtz6nQADHN5bmNocm9uaXplZHNxAH4ADMy+TRt0AA0kaXNJbnN0YW5jZU9mc3EAfgAM9KUbwXQACW5vdGlmeUFsbHNxAH4ADCf/u7l0AAxpc0luc3RhbmNlT2ZzcQB+AAztzDhUdAAGPGluaXQ+c3EAfgAMagKbvnQACGNoZWNrc3Vtc3EAfgAMMY60U3QACWNhbGN1bGF0ZXNxAH4ADK6R3oB0AAI9PXNxAH4ADH8ASuZ0AAVjbG9uZXNxAH4ADHcfLS10AAh0b1N0cmluZ3NxAH4ADNURgk90AAIhPXNxAH4ADCkUAn50AAhnZXRDbGFzc3NxAH4ADKINMOl0AAJuZXNxAH4ADJziuxl0AANhZGRzcQB+AAwRDHb3dAACZXFzcQB+AAxvOrGcdAACIyNzcQB+AAwJVN9odAAIZmluYWxpemVzcQB+AAy3ewoqdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ABF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGNzcQB+AF51cQB+AEIAAAAAc3EAfgBedXEAfgBCAAAAAHNxAH4AXnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ae3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfHNxAH4Ab3QAA0FueXNxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHt0AAVzY2FsYXEAfgCCc3EAfgBEcQB+AFF1cQB+AFIAAAAAc3EAfgBUAHQAE0NoZWNrc3VtQWNjdW11bGF0b3J1cQB+AFYAAAAAfnEAfgBYdAAGTW9kdWxldXEAfgBcAAAAAHNxAH4AXnEAfgBkc3EAfgBec3EAfgBmc3EAfgBedXEAfgBCAAAAAHNxAH4AXnVxAH4AQgAAAABzcQB+AF51cQB+AG0AAAACc3EAfgBvcQB+AHJzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7cQB+AH5zcQB+AHtxAH4AgHEAfgCCc3EAfgBvcQB+AIRzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AIlxAH4AgnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFctPjrhnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEkvVXNlcnMvc2Z1amltb3RvL2NvZGUvU2NhbGEvUHJvZ3JhbW1pbmdTY2FsYTNyZC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUkj6tmBRq9jVHQjOZdVyGFnCkSWw=
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCnUCpwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwhaQS9XQABm5vdGlmeXNxAH4ADIBd8HN0AAtmaWxlc0VuZGluZ3NxAH4ADF3JOUl0AAR3YWl0c3EAfgAMwa7xsHQADSRhc0luc3RhbmNlT2ZzcQB+AAxHVA1EdAAGZXF1YWxzc3EAfgAMr4lHxHQAD2ZpbGVzQ29udGFpbmluZ3NxAH4ADD3p/Lp0AAxhc0luc3RhbmNlT2ZzcQB+AAxucJoLdAAMc3luY2hyb25pemVkc3EAfgAM2fue53QADSRpc0luc3RhbmNlT2ZzcQB+AAx6B7kYdAAFRmlsZXNzcQB+AAx1wJMKdAANZmlsZXNNYXRjaGluZ3NxAH4ADNPBxvl0AAlub3RpZnlBbGxzcQB+AAyu6baFdAAMaXNJbnN0YW5jZU9mc3EAfgAMcUXuFnQAAj09c3EAfgAMrvXwpHQABWNsb25lc3EAfgAMVKILrnQACHRvU3RyaW5nc3EAfgAMPjg0EHQAAiE9c3EAfgAMk9YJVXQACGdldENsYXNzc3EAfgAMdhvPCHQAAm5lc3EAfgAM9fwDLHQACmZpbGVzUmVnZXhzcQB+AAyn7yTHdAACZXFzcQB+AAy8FwbNdAACIyNzcQB+AAwffNJddAAIZmluYWxpemVzcQB+AAxHeQW/dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ACF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBjc3EAfgBedXEAfgBCAAAAAHNxAH4AXnVxAH4AQgAAAABzcQB+AF51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGJ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHt0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHxzcQB+AG90AANBbnlzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7dAAFc2NhbGFxAH4AgnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFctPjrhnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEkvVXNlcnMvc2Z1amltb3RvL2NvZGUvU2NhbGEvUHJvZ3JhbW1pbmdTY2FsYTNyZC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUUInL0Ifuhb6LGH+NN712tKD2L4Q=
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwdgZGxwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwP+Pu/3QABm5vdGlmeXNxAH4ADC/MjhJ0AAR3YWl0c3EAfgAMJ8kjxHQADSRhc0luc3RhbmNlT2ZzcQB+AAzKTUUKdAAGZXF1YWxzc3EAfgAMH+lawXQADGFzSW5zdGFuY2VPZnNxAH4ADFmiSwN0AA1GaW5kTG9uZ0xpbmVzc3EAfgAMwRnbQXQADHN5bmNocm9uaXplZHNxAH4ADDaNsdF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMBIFK7HQABG1haW5zcQB+AAxMKn0ZdAAJbm90aWZ5QWxsc3EAfgAMDwYzl3QADGlzSW5zdGFuY2VPZnNxAH4ADFj9xkF0AAI9PXNxAH4ADHTopAl0AAVjbG9uZXNxAH4ADN4fvSl0AAh0b1N0cmluZ3NxAH4ADN7LfwZ0AAIhPXNxAH4ADLdhtap0AAhnZXRDbGFzc3NxAH4ADN2bHbF0AAJuZXNxAH4ADMG9fmJ0AAJlcXNxAH4ADLY+oPJ0AAIjI3NxAH4ADAJz8MJ0AAhmaW5hbGl6ZXNxAH4ADMbY0kh0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AGXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF1zcQB+AFh1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB91cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHh1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBleHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBsWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBcc3EAfgBrdAAFQXJyYXlxAH4AcXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBrdAAGU3RyaW5nc3EAfgBvc3EAfgBydXEAfgB1AAAAA3NxAH4Ad3QABGphdmFzcQB+AHd0AARsYW5ncQB+AHxzcQB+AFh1cQB+ADwAAAAAc3EAfgBYdXEAfgCQAAAAAnNxAH4Aa3QABk9iamVjdHEAfgCUc3EAfgBrdAADQW55cQB+AHF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXLT464Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABJL1VzZXJzL3NmdWppbW90by9jb2RlL1NjYWxhL1Byb2dyYW1taW5nU2NhbGEzcmQvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHcaeX+KZd4iCAJFtFWumYLsBUD/
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwAfXC5gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwk8fyv3QABm5vdGlmeXNxAH4ADCgxK3d0AAR3YWl0c3EAfgAMbmACxHQADSRhc0luc3RhbmNlT2ZzcQB+AAz6Q5mjdAAGZXF1YWxzc3EAfgAM6yymeHQADGFzSW5zdGFuY2VPZnNxAH4ADOTBRax0AAxzeW5jaHJvbml6ZWRzcQB+AAz9+DE3dAANJGlzSW5zdGFuY2VPZnNxAH4ADAjGg1R0AAlub3RpZnlBbGxzcQB+AAxZSXomdAAMaXNJbnN0YW5jZU9mc3EAfgAMvbKzyHQAAj09c3EAfgAMG1m8aXQABWNsb25lc3EAfgAMorXa1HQACHRvU3RyaW5nc3EAfgAM9tHTMXQAAiE9c3EAfgAMutGqQXQACGdldENsYXNzc3EAfgAM52A8+nQAAm5lc3EAfgAMOEJh4nQAAmVxc3EAfgAMWgbANnQACUxvbmdMaW5lc3NxAH4ADK+1QnJ0AAIjI3NxAH4ADDlPcUt0AAhmaW5hbGl6ZXNxAH4ADHY7Q6h0AAhoYXNoQ29kZXNxAH4ADEj7UDd0AAtwcm9jZXNzRmlsZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AL3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF1zcQB+AFh1cQB+ADwAAAAAc3EAfgBYdXEAfgA8AAAAAHNxAH4AWHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AdXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AdnNxAH4AaXQAA0FueXNxAH4AbXNxAH4AcHVxAH4AcwAAAAJzcQB+AHV0AAVzY2FsYXEAfgB8dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVy0+OuGdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASS9Vc2Vycy9zZnVqaW1vdG8vY29kZS9TY2FsYS9Qcm9ncmFtbWluZ1NjYWxhM3JkL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQUhj69CFrHKqBSV7zJ14gWdb9cWw==
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwcG9ZcQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwVb6QanQABm5vdGlmeXNxAH4ADC7iG3d0AAR3YWl0c3EAfgAM0SH34nQAASpzcQB+AAx/1kNMdAANJGFzSW5zdGFuY2VPZnNxAH4ADItkhKB0AAZlcXVhbHNzcQB+AAyZVdHcdAAMYXNJbnN0YW5jZU9mc3EAfgAMwoIf33QADHN5bmNocm9uaXplZHNxAH4ADDPNgKN0AA0kaXNJbnN0YW5jZU9mc3EAfgAMYTtGWHQABW51bWVyc3EAfgAMkHCVxnQACW5vdGlmeUFsbHNxAH4ADIbwss50AAEtc3EAfgAMvzam0nQADGlzSW5zdGFuY2VPZnNxAH4ADEfrJuJ0AAY8aW5pdD5zcQB+AAzbNJPudAACPT1zcQB+AAzlef4UdAAFY2xvbmVzcQB+AAx1hm+zdAAIdG9TdHJpbmdzcQB+AAxOhSo/dAAFZGVub21zcQB+AAyktCp2dAABK3NxAH4ADPVgYf50AAIhPXNxAH4ADN/Yd+B0AAhnZXRDbGFzc3NxAH4ADKjyOsV0AAhSYXRpb25hbHNxAH4ADLAQdfZ0AAJuZXNxAH4ADG9rOXh0AAJlcXNxAH4ADBOjI9d0AAEvc3EAfgAM3mcueHQAAiMjc3EAfgAMQkHlWnQACGZpbmFsaXplc3EAfgAMMIqzNXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgA3dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ATUwACWluaGVyaXRlZHEAfgBNTAAHcGFyZW50c3EAfgBNeHEAfgBpc3EAfgBkdXEAfgBIAAAAAHNxAH4AZHVxAH4ASAAAAABzcQB+AGR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGh0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIF0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIJzcQB+AHV0AANBbnlzcQB+AHlzcQB+AHx1cQB+AH8AAAACc3EAfgCBdAAFc2NhbGFxAH4AiHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFctPjrhnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEkvVXNlcnMvc2Z1amltb3RvL2NvZGUvU2NhbGEvUHJvZ3JhbW1pbmdTY2FsYTNyZC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUHpLgbEHdktYBA+uUnT3h2i3Qqgs=
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwieaPjQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwscR4P3QABm5vdGlmeXNxAH4ADAUm2lJ0AAR3YWl0c3EAfgAMaqu08nQADSRhc0luc3RhbmNlT2ZzcQB+AAxraiGqdAAGZXF1YWxzc3EAfgAMfbAcwXQADGFzSW5zdGFuY2VPZnNxAH4ADJ832QF0AA5leGVjdXRpb25TdGFydHNxAH4ADH4Pu7x0AAxzeW5jaHJvbml6ZWRzcQB+AAwTvduydAANJGlzSW5zdGFuY2VPZnNxAH4ADN7vDxV0AARtYWluc3EAfgAM9eg3TXQACW5vdGlmeUFsbHNxAH4ADO5lf/x0AAxpc0luc3RhbmNlT2ZzcQB+AAyFjx4mdAACPT1zcQB+AAy0quHpdAAFY2xvbmVzcQB+AAxfySoEdAAGJGluaXQkc3EAfgAMSfc1iHQACHRvU3RyaW5nc3EAfgAMl+6aZHQABGFyZ3NzcQB+AAydLb+OdAACIT1zcQB+AAw86RhidAAIZ2V0Q2xhc3NzcQB+AAy7K81CdAAGU3VtbWVyc3EAfgAMYAIa9nQAAm5lc3EAfgAMyhNPT3QAAmVxc3EAfgAMB7P1ZHQAC2RlbGF5ZWRJbml0c3EAfgAMqSE7mXQAAiMjc3EAfgAMDaDlDnQACGZpbmFsaXplc3EAfgAMusGGO3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBic3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AZ3NxAH4AYnVxAH4ARAAAAABzcQB+AGJ1cQB+AEQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEpxAH4AU3VxAH4AVAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHF4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZnQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBmc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCLc3EAfgBWAHEAfgAfdXEAfgBYAAAAAHNxAH4AfnQABFVuaXRxAH4AhHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHF4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFt0AAVQbGFpbnEAfgAtc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB/WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBmc3EAfgB+dAAFQXJyYXlxAH4AhHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB+dAAGU3RyaW5nc3EAfgCCc3EAfgCFdXEAfgCIAAAAA3NxAH4AinQABGphdmFzcQB+AIp0AARsYW5ncQB+AI9zcQB+AGJ1cQB+AKYAAAAEc3EAfgB+dAADQXBwcQB+AIRzcQB+AH50AAtEZWxheWVkSW5pdHEAfgCEc3EAfgB+dAAGT2JqZWN0cQB+AKpzcQB+AH50AANBbnlxAH4AhHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFctPjrhnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEkvVXNlcnMvc2Z1amltb3RvL2NvZGUvU2NhbGEvUHJvZ3JhbW1pbmdTY2FsYTNyZC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU5/ajJ5psgV3Xs8VKdIWQhCAAoD8=
+external apis:
+0 items
+source infos:
+7 items
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Ch9.scala -> 
+AAAAAAAAAAA=
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/ChecksumAccumulator.scala -> 
+AAAAAAAAAAA=
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Files.scala -> 
+AAAAAAAAAAA=
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/FindLongLines.scala -> 
+AAAAAAAAAAA=
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/LongLines.scala -> 
+AAAAAAAAAAA=
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Rational2.scala -> 
+AAAAAAAAAAA=
+/Users/sfujimoto/code/Scala/ProgrammingScala3rd/src/main/scala/Summer.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBMuS3t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9Vc2Vycy9zZnVqaW1vdG8vY29kZS9TY2FsYS9Qcm9ncmFtbWluZ1NjYWxhM3JkL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXLT464Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9Vc2Vycy9zZnVqaW1vdG8vY29kZS9TY2FsYS9Qcm9ncmFtbWluZ1NjYWxhM3JkL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXLT9avJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9Vc2Vycy9zZnVqaW1vdG8vY29kZS9TY2FsYS9Qcm9ncmFtbWluZ1NjYWxhM3JkL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXLT/dC91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9Vc2Vycy9zZnVqaW1vdG8vY29kZS9TY2FsYS9Qcm9ncmFtbWluZ1NjYWxhM3JkL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv

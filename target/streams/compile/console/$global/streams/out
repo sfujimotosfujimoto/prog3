@@ -1,0 +1,7 @@
+[debug] Waiting for threads to exit or System.exit to be called.
+[debug] Getting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.2
+[debug] Waiting for thread run-main-2 to terminate.
+[debug] Getting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.2
+[info] Starting scala interpreter...
+[info] 
+[debug] 	Thread run-main-2 exited.
